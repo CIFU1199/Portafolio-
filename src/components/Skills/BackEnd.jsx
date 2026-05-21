@@ -8,7 +8,15 @@ const BackEnd = () => {
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__data">
-                    <i class='bx bxl-nodejs icon' ></i>
+                    <i className='bx bxl-python icon'></i>
+                    <div>
+                        <h3 className="skills__name">Python</h3>
+                        <span className="skills__level"></span>
+                    </div>
+                </div>
+
+                <div className="skills__data">
+                    <i className='bx bxl-nodejs icon'></i>
                     <div>
                         <h3 className="skills__name">Node.JS</h3>
                         <span className="skills__level"></span>
@@ -16,49 +24,32 @@ const BackEnd = () => {
                 </div>
 
                 <div className="skills__data">
-                    <i class='bx bx-server icon' ></i>
+                    <i className='bx bxs-data icon'></i>
                     <div>
-                        <h3 className="skills__name">Express</h3>
+                        <h3 className="skills__name">PostgreSQL</h3>
                         <span className="skills__level"></span>
                     </div>
                 </div>
-
-                <div className="skills__data">
-                    <i class='bx bxs-data icon' ></i>
-                    <div>
-                        <h3 className="skills__name">FireBase</h3>
-                        <span className="skills__level"></span>
-                    </div>
-                </div>
-                
-
-                
             </div>
 
             <div className="skills__group">
                 <div className="skills__data">
-                    <i class='bx bxs-data icon' ></i>
+                    <i className='bx bx-server icon'></i>
+                    <div>
+                        <h3 className="skills__name">Oracle SQL</h3>
+                        <span className="skills__level"></span>
+                    </div>
+                </div>
+
+                <div className="skills__data">
+                    <i className='bx bxs-data icon'></i>
                     <div>
                         <h3 className="skills__name">MySQL</h3>
                         <span className="skills__level"></span>
                     </div>
                 </div>
-
-                <div className="skills__data">
-                    <i class='bx bxl-mongodb icon' ></i>
-                    <div>
-                        <h3 className="skills__name">MongoDB</h3>
-                        <span className="skills__level"></span>
-                    </div>
-                </div>
-                
-                
-
-                
             </div>
         </div>
-
-
     </div>
   )
 }

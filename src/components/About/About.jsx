@@ -15,7 +15,7 @@ const About = () => {
             <div className="about__data">
               <Info/>
               <p className="about__description">
-                Desarrollador Front-End | Ingeniero en Sistemas egresado de la fundación universitaria de San Gil – UNISANGIL, participé en el semillero de investigación PDM y el semillero de investigación de redes donde me desempeñé como desarrollador obteniendo experiencia en el área, actualmente estoy desarrollando aplicaciones con JavaScript y todo su entorno web, adicionalmente cuento con conocimientos en el área de metodologías ágiles.
+                Administrador de Bases de Datos | Ingeniero en Sistemas egresado de la Fundación Universitaria de San Gil – UNISANGIL  Con experiencia en la administración y mantenimiento de bases de datos MySQL, PostgreSQL y Oracle, incluyendo procesos de restauración, optimización y respaldo. Manejo avanzado en la construcción de informes SQL para análisis y toma de decisiones institucionales. Cuento además con conocimientos básicos en manejo de datos con Python, lo que me permite realizar tareas de procesamiento y automatización. Participé en semilleros de investigación PDM y Redes, fortaleciendo mis competencias técnicas y de trabajo colaborativo. Adicionalmente, tengo formación en metodologías ágiles, lo que me permite adaptarme a proyectos dinámicos y orientados a resultados.
               </p>
               <a download="" href={CV} className="button button--flex">
                 Descargar CV

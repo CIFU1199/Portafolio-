@@ -55,9 +55,9 @@ const Data = () => {
         </svg>
       </h1>
 
-      <h3 className="home__subtitle">Desarrollador Front-End</h3>
+      <h3 className="home__subtitle">Administrador de Bases de Datos</h3>
       <p className="home__description">
-      Ingeniero en sistemas egresado de la fundación universitaria de San Gil – UNISANGIL, desarrollandor de aplicaciones con React.js.
+      Ingeniero en sistemas egresado de la fundación universitaria de San Gil – UNISANGIL, Administrador de Bases de Datos.
       </p>
 
       <a href="#contact" className="button button-flex">
